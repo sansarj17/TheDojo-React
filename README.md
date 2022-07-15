@@ -43,7 +43,7 @@
     <br />
     <a href="https://the-dojo-8c2c5.web.app/">View Live</a>
 	·
-    <a href="https://github.com/github_username/TheDojo-React">Repo</a>
+    <a href="https://github.com/sansarj17/TheDojo-React">Repo</a>
     <!-- ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
